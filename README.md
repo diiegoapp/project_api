@@ -27,7 +27,7 @@ Uma API REST completa para gerenciamento de tarefas pessoais, construída com No
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/seu-usuario/project_api.git](https://github.com/diiegoapp/project_api)
+   git clone https://github.com/seu-usuario/project_api.git
    cd project_api
    ```
 
